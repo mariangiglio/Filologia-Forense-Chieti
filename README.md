@@ -18,10 +18,10 @@ Da questi file illegibili trovare tramite analisi dell’esadecimale quante più
 
 ## Lista header
 _✨Magic bytes_
-- **FE 37 00 23** = Word 5.0
-- **FE 37 00 1C** = Word 4.0
-- **FE 34 00 1C** = Word 3
-- **D0 CF 11 E0** = Word .doc
+- **FE 37 00 23** = Word 5.0 per Macintosh --> estensione= .mcw
+- **FE 37 00 1C** = Word 4.0 --> estensione= .mcw
+- **FE 34 00 1C** = Word 3 --> estensione= .mcw
+- **D0 CF 11 E0** = Word 97-2003 --> estensione= .doc
 
 ## Stringa di fine testo
 **75 00** --> stringa di fine testo. Il materiale dopo è stato cancellato o aggiunto dopo la chiusura
