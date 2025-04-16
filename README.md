@@ -6,6 +6,7 @@ Da questi file illegibili trovare tramite analisi dell’esadecimale quante più
 ## Istruzioni
 - Aprire un editor esadecimale online. Es. [HexEd](https://hexed.it/)
 - Scaricare uno o più file dal repository
+- Il file può essere trascinato direttamente nell'editor esadecimale
 - Provare a cercare informazioni utili 
 
 ## Consigli di metodo
