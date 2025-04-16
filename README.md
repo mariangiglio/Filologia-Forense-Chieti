@@ -29,6 +29,9 @@ _✨Magic bytes_
 ## Emulatore
 Si può provare a vedere i file in un emulatore scaricando il software da [Qui](https://we.tl/t-PXCYHjzBTh)
 
+# Link utili 
+https://it.wikipedia.org/wiki/Microsoft_Word
+
 
 
 
