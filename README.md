@@ -25,5 +25,9 @@ _✨Magic bytes_
 ## Stringa di fine testo
 **75 00** --> stringa di fine testo. Il materiale dopo è stato cancellato o aggiunto dopo la chiusura
 
+## Emulatore
+Si può provare a vedere i file in un emulatore scaricando il software da [Qui](https://we.tl/t-PXCYHjzBTh)
+
+
 
 
